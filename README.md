@@ -319,6 +319,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [ILSpy](http://ilspy.net) - .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - Assembly code editor which can be used as a plugin with other .NET/CLR tools.
+  * [Silverfly]("https://github.com/furesoft/Silverfly) - Library to build parsers easily and reusem them
 
 ### D
 
